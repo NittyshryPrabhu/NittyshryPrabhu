@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @NittyshryPrabhu
 - 👀 I’m interested in Learn Programming and Learn about new Things.
-- 🌱 I’m currently learning B.Tech.
+- 🌱 I’m currently learning 2nd Year B.Tech [ CSE(AIML)].
 - 💞️ I’m looking to collaborate on Google and other company.
 - Love is Force Equilibrium.
+
+- Programming Language
+- C , HTML , CSS  , Python (Little)
+
+- My 1st Year SGPA  83%
+
+- 
 
 <!---
 NittyshryPrabhu/NittyshryPrabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
