@@ -5,11 +5,11 @@
 - Love is Force Equilibrium.
 
 - Programming Language
-- C , HTML , CSS  , Python (Little)
+- C , HTML , CSS  , Python  [ Continious  Learrn ]........
 
 - My 1st Year SGPA  83%
 
-- 
+
 
 <!---
 NittyshryPrabhu/NittyshryPrabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
