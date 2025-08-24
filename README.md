@@ -1,13 +1,30 @@
-- 👋 Hi, I’m @NittyshryPrabhu
-- 👀 I’m interested in Learn Programming and Learn about new Things.
-- 🌱 I’m currently learning 2nd Year B.Tech [ CSE(AIML)].
+# Hi 👋, I'm Nittyshry Prabhu
+
+🌱 I'm a 3rd Year B.Tech CSE (AI & ML) Student  
+💻 Passionate about Programming, AI, and Web Development  
+📚 Currently learning: Python, Wep Development and MySQL  
+🚀 Goal: To become a Full-Stack Developer & AI Enthusiast  
+
+---
+
+## 🛠️ Skills
+- Programming: C, Python
+- Web: HTML, CSS, JavaScript, Django, Bootstrap
+- Database: MySQL
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NittyshryPrabhu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NittyshryPrabhu&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NittyshryPrabhu&theme=radical)
 
 
+---
+⭐ Fun Fact: *I love building projects like Web Apps, Websites Pages!*
 
-- Programming Language
-- C , HTML , CSS  , PYTHON, JAVA  [ Continious  Learrn ]........
-
-- My 1st Year SGPA  83%
 
 
 
