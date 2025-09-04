@@ -7,9 +7,9 @@
 
 I Think ⬇️
 
->> This Too Will Pass.
->> There's still a lot left.
->> Something has to happen for something to happen.
+This Too Will Pass.
+There's still a lot left.
+Something has to happen for something to happen.
 ---
 
 ## 🛠️ Skills
