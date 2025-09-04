@@ -5,11 +5,6 @@
 📚 Currently learning: Python, Wep Development and MySQL  
 🚀 Goal: To become a Full-Stack Developer & AI Enthusiast  
 
-I Think ⬇️
-
-- This Too Will Pass.
-- There's still a lot left.
-- Something has to happen for something to happen.
 ---
 
 ## 🛠️ Skills
